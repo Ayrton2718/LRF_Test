@@ -1,0 +1,6 @@
+find and kill a bug of queue when catch up writter.
+
+add Debug system of memory scope.
+Add device and register system.
+
+add initializer.
