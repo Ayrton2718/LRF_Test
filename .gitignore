@@ -1,0 +1,18 @@
+*
+!*/
+!*.*
+!Makefile
+!.gitignore
+
+.DS_Store
+*.dSYM
+# .vscode
+
+*.o
+*.so
+*.out
+*.gch
+*.a
+
+data_set_ang0.json
+data_set.json
